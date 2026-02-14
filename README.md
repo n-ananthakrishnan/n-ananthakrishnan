@@ -51,7 +51,7 @@ const anantha = {
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" />
 
 </div>
 
@@ -103,15 +103,15 @@ Small progress every day → Massive results.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-USERNAME">
+<a href="https://www.linkedin.com/in/anantha-krishnan-n/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:anand7.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO.com">
+<a href="https://www.anantha-krishnan.me/">
 <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
