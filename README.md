@@ -1,133 +1,51 @@
-<!-- JAPANESE WAVING HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=アナンタ%20クリシュナン&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20未来を創るエンジニア&descAlignY=55"/>
+<!-- 🔥 FUNKY NEON HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5A0,50:00D9F5,100:7F00FF&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 
 <div align="center">
 
-# 「七転び八起き」
-### *Fall seven times, stand up eight.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Technology+For+The+Future;日本で働くソフトウェアエンジニアを目指しています;Turning+Ideas+Into+Reality;Consistency+Beats+Talent" />
+<!-- GLITCH TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=700&color=00F5A0&center=true&vCenter=true&width=750&lines=⚡+Full+Stack+Developer;🚀+Future+Engineer+in+Japan;💡+Building+Things+That+Matter;🔥+Consistency+%3E+Motivation" />
 
 </div>
 
 ---
 
-## 👨‍💻 私について | About Me
-
-```typescript
-const anantha = {
-    name: "Anantha Krishnan",
-    role: "Full Stack Developer",
-    goal: "Software Engineer in Japan 🇯🇵",
-    mindset: "改善 (Kaizen) — Continuous Improvement",
-    strength: "Discipline + Consistency"
-};
-```
-
-> ### 「改善は一日にして成らず」
-> **Kaizen is not achieved in a day — improvement is a continuous journey.**
-
-🔹 Passionate about building scalable applications  
-🔹 Strong believer in lifelong learning  
-🔹 Focused on real-world impact through technology  
-🔹 Calm, consistent, and growth-driven  
-
----
-
-## ⚔️ 技術スタック | Tech Stack
+# 🟢 Animated Contribution Graph
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark" />
+### 🐍 Watch my contributions get eaten alive!
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express&theme=dark" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Live Activity Graph
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=n-ananthakrishnan&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=n-ananthakrishnan&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF"/>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=n-ananthakrishnan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n-ananthakrishnan&bg_color=0d1117&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 現在の目標 | Current Mission
-
-### 「未来を創る」
-*Creating the future through technology.*
-
-✔ Master Full Stack Development  
-✔ Build impactful software  
-✔ Contribute to meaningful projects  
-✔ Work as an engineer in Japan  
-
----
-
-## 🧠 Developer Philosophy
-
-> 「継続は力なり」  
-> **Consistency becomes strength.**
-
-I don't chase motivation.  
-I build discipline.
-
-Small progress every day → Massive results.
-
----
-
-## 🤝 Connect With Me
+# 🌌 Visitor Counter (Looks great with animation)
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anantha-krishnan-n/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anand7.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.anantha-krishnan.me/">
-<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=n-ananthakrishnan&label=PROFILE+VIEWS&color=00F5A0&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 「コードで世界を変える。」
-
-**Changing the world through code.**
-
-⭐ *If my work inspires you, consider starring a repository.*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+<!-- FUTURISTIC FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7F00FF,50:00D9F5,100:00F5A0&section=footer"/>
 
