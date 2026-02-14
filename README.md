@@ -1,121 +1,101 @@
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
+<!-- JAPANESE WAVING HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=アナンタ%20クリシュナン&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20未来を創るエンジニア&descAlignY=55"/>
 
-<!-- ANIMATED TITLE -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananthakrishnan;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Building+The+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
+# 「七転び八起き」
+### *Fall seven times, stand up eight.*
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=n-ananthakrishnan&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Profile Views"/>
-  <a href="https://github.com/n-ananthakrishnan?tab=followers">
-    <img src="https://img.shields.io/github/followers/n-ananthakrishnan?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Followers"/>
-  </a>
-  <a href="https://github.com/n-ananthakrishnan?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/n-ananthakrishnan?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Stars"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Technology+For+The+Future;日本で働くソフトウェアエンジニアを目指しています;Turning+Ideas+Into+Reality;Consistency+Beats+Talent" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 私について | About Me
 
 ```typescript
-const ananthakrishnan = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm proud of it 😄"
+const anantha = {
+    name: "Anantha Krishnan",
+    role: "Full Stack Developer",
+    goal: "Software Engineer in Japan 🇯🇵",
+    mindset: "改善 (Kaizen) — Continuous Improvement",
+    strength: "Discipline + Consistency"
 };
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="150"/>
+> ### 「改善は一日にして成らず」
+> **Kaizen is not achieved in a day — improvement is a continuous journey.**
 
-🔭 Currently working on exciting projects  
-🌱 Learning Cloud Architecture & DevOps  
-👯 Looking to collaborate on Open Source  
-💬 Ask me about Web Development  
-⚡ Fun fact: Code is poetry  
-
-<br clear="right"/>
+🔹 Passionate about building scalable applications  
+🔹 Strong believer in lifelong learning  
+🔹 Focused on real-world impact through technology  
+🔹 Calm, consistent, and growth-driven  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ 技術スタック | Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c&theme=dark" />
-</a>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark" />
 
-### 🎨 Frontend
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</a>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" />
 
-### ⚙️ Backend & Database
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" />
-</a>
+### Backend
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express&theme=dark" />
 
-### 🛠️ Tools & Platforms
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws&theme=dark" />
-</a>
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,aws&theme=dark" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n-ananthakrishnan&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=n-ananthakrishnan&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-ananthakrishnan&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=n-ananthakrishnan&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=n-ananthakrishnan&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0D1117" />
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=n-ananthakrishnan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Contribution Graph
+## 🚀 現在の目標 | Current Mission
 
-<div align="center">
+### 「未来を創る」
+*Creating the future through technology.*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n-ananthakrishnan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=n-ananthakrishnan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
+✔ Master Full Stack Development  
+✔ Build impactful software  
+✔ Contribute to meaningful projects  
+✔ Work as an engineer in Japan  
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 Developer Philosophy
 
-<div align="center">
+> 「継続は力なり」  
+> **Consistency becomes strength.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</picture>
+I don't chase motivation.  
+I build discipline.
 
-</div>
+Small progress every day → Massive results.
 
 ---
 
@@ -123,45 +103,31 @@ const ananthakrishnan = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="80"/>
+### 「コードで世界を変える。」
 
-### Thanks for visiting! Come back soon ⭐
+**Changing the world through code.**
+
+⭐ *If my work inspires you, consider starring a repository.*
 
 </div>
 
-<!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+
